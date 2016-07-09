@@ -12,5 +12,6 @@ public class App {
 		System.out.println("Changed App.java in development branch");
 		System.out.println("Changed App.java for 2nd Commit in development branch");
 		System.out.println("Modifying App.java in Master branch");
+		System.out.println("Modifying App.java in cmd_dev branch");
 	}
 }
