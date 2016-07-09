@@ -9,5 +9,6 @@ public class App {
 		System.out.println("Hello World!");
 		System.out.println("More changes goes here");
 		System.out.println("Gonna stash this");
+		System.out.println("Modifying App.java in Master branch");
 	}
 }
