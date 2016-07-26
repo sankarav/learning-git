@@ -14,5 +14,6 @@ public class App {
 		System.out.println("Modifying App.java in Master branch");
 		System.out.println("Modifying App.java in cmd_dev branch");
 		System.out.println("Modifying App.java in branch1 branch");
+		System.out.println("Modifying App.java again in branch1 branch"); //This will create merge conflict
 	}
 }
