@@ -5,6 +5,8 @@ package edu.ub.san;
  * More changes
  */
 public class App {
+	public static String SOME_VARIABLE = ""; 
+
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("More changes goes here");
